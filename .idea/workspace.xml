@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="600c3590-d522-4f05-9d56-652948721935" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ref/MethodChange1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/MethodChange2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/Method1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "Application.ClassStart4.executor": "Run",
     "Application.Main.executor": "Debug",
     "Application.MethodChange1.executor": "Run",
+    "Application.MethodChange2.executor": "Run",
     "Application.VarChange1.executor": "Run",
     "Application.VarChange2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
