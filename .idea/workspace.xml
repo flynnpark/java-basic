@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="600c3590-d522-4f05-9d56-652948721935" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oop1/ValueData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ValueDataMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ValueObjectMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerMain4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +58,7 @@
     &quot;Application.MethodChange2.executor&quot;: &quot;Run&quot;,
     &quot;Application.NullMain2.executor&quot;: &quot;Run&quot;,
     &quot;Application.NullMain3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValueObjectMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.VarChange1.executor&quot;: &quot;Run&quot;,
     &quot;Application.VarChange2.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -66,7 +66,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/flynn/dev/personal/java-basic/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -78,7 +78,7 @@
       <recent name="class1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ValueObjectMain">
+  <component name="RunManager" selected="Application.MusicPlayerMain4">
     <configuration name="InitMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ref.InitMain" />
       <module name="java-basic" />
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodChange2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ref.MethodChange2" />
+    <configuration name="MusicPlayerMain4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop1.MusicPlayerMain4" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ref.*" />
+          <option name="PATTERN" value="oop1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MusicPlayerMain4" />
         <item itemvalue="Application.ValueObjectMain" />
         <item itemvalue="Application.NullMain3" />
         <item itemvalue="Application.NullMain2" />
         <item itemvalue="Application.InitMain" />
-        <item itemvalue="Application.MethodChange2" />
       </list>
     </recent_temporary>
   </component>
