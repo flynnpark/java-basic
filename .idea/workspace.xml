@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="600c3590-d522-4f05-9d56-652948721935" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/GasCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/HydrogenCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/GasCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,11 +87,12 @@
     "Application.VarChange1.executor": "Run",
     "Application.VarChange2.executor": "Run",
     "Application.extends1.ex2.CarMain.executor": "Run",
+    "Application.extends1.overriding.CarMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/flynn/dev/personal/java-basic/src/extends1/ex2",
+    "last_opened_file_path": "/Users/flynn/dev/personal/java-basic/src/extends1/overriding",
     "onboarding.tips.debug.path": "/Users/flynn/dev/personal/java-basic/src/Main.java",
     "settings.editor.selected.configurable": "promo.database"
   }
@@ -102,37 +102,25 @@
       <recent name="access.ex" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/extends1/overriding" />
       <recent name="$PROJECT_DIR$/src/extends1/ex2" />
       <recent name="$PROJECT_DIR$/src/pack/b" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="extends1.overriding" />
       <recent name="final1" />
       <recent name="access.b" />
       <recent name="pack" />
       <recent name="construct" />
-      <recent name="oop1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.extends1.ex2.CarMain">
+  <component name="RunManager" selected="Application.extends1.overriding.CarMain">
     <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="static2.ex.CarMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="static2.ex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataCountMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static1.DataCountMain3" />
-      <module name="java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="static1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,13 +167,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="extends1.overriding.CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.overriding.CarMain" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="extends1.overriding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.extends1.overriding.CarMain" />
         <item itemvalue="Application.extends1.ex2.CarMain" />
         <item itemvalue="Application.MathArrayUtilsMain" />
         <item itemvalue="Application.CarMain" />
         <item itemvalue="Application.DecoDataMain" />
-        <item itemvalue="Application.DataCountMain3" />
       </list>
     </recent_temporary>
   </component>
