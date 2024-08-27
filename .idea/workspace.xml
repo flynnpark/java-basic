@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="600c3590-d522-4f05-9d56-652948721935" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/extends1/super1/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/super1/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/super1/Super1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/Super2Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +84,8 @@
     "Application.NullMain3.executor": "Run",
     "Application.ShoppingCartMain.executor": "Run",
     "Application.SpeakerMain.executor": "Run",
+    "Application.Super1Main.executor": "Run",
+    "Application.Super2Main.executor": "Run",
     "Application.ValueObjectMain.executor": "Run",
     "Application.VarChange1.executor": "Run",
     "Application.VarChange2.executor": "Run",
@@ -114,7 +117,7 @@
       <recent name="construct" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Super1Main">
+  <component name="RunManager" selected="Application.Super2Main">
     <configuration name="ExtendsAccessMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="extends1.access.ExtendsAccessMain" />
       <module name="java-basic" />
@@ -128,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathArrayUtilsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static2.ex.MathArrayUtilsMain" />
+    <configuration name="Super1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.super1.Super1Main" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static2.ex.*" />
+          <option name="PATTERN" value="extends1.super1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Super1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extends1.super1.Super1Main" />
+    <configuration name="Super2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.super2.Super2Main" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="extends1.super1.*" />
+          <option name="PATTERN" value="extends1.super2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Super2Main" />
         <item itemvalue="Application.Super1Main" />
         <item itemvalue="Application.ExtendsAccessMain" />
         <item itemvalue="Application.extends1.overriding.CarMain" />
         <item itemvalue="Application.extends1.ex2.CarMain" />
-        <item itemvalue="Application.MathArrayUtilsMain" />
       </list>
     </recent_temporary>
   </component>
