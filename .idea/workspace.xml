@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="600c3590-d522-4f05-9d56-652948721935" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/access/ExtendsAccessMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/access/child/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/access/parent/Parent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +69,7 @@
     "Application.DataCountMain2.executor": "Run",
     "Application.DataCountMain3.executor": "Run",
     "Application.DecoDataMain.executor": "Run",
+    "Application.ExtendsAccessMain.executor": "Run",
     "Application.InitMain.executor": "Run",
     "Application.JavaMemoryMain1.executor": "Run",
     "Application.Main.executor": "Debug",
@@ -114,7 +114,7 @@
       <recent name="construct" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.extends1.overriding.CarMain">
+  <component name="RunManager" selected="Application.ExtendsAccessMain">
     <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="static2.ex.CarMain" />
       <module name="java-basic" />
@@ -128,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecoDataMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static2.DecoDataMain" />
+    <configuration name="ExtendsAccessMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.access.ExtendsAccessMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static2.*" />
+          <option name="PATTERN" value="extends1.access.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExtendsAccessMain" />
         <item itemvalue="Application.extends1.overriding.CarMain" />
         <item itemvalue="Application.extends1.ex2.CarMain" />
         <item itemvalue="Application.MathArrayUtilsMain" />
         <item itemvalue="Application.CarMain" />
-        <item itemvalue="Application.DecoDataMain" />
       </list>
     </recent_temporary>
   </component>
