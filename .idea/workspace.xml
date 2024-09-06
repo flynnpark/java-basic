@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="600c3590-d522-4f05-9d56-652948721935" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/overriding/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/overriding/OverridingMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/overriding/Parent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,6 +110,9 @@
       <recent name="$PROJECT_DIR$/src/extends1/ex2" />
       <recent name="$PROJECT_DIR$/src/pack/b" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="poly" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="poly.basic" />
       <recent name="extends1.overriding" />
@@ -117,7 +121,7 @@
       <recent name="pack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CastingMain5">
+  <component name="RunManager" selected="Application.OverridingMain">
     <configuration name="CastingMain5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="poly.basic.CastingMain5" />
       <module name="java-basic" />
@@ -131,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExtendsAccessMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extends1.access.ExtendsAccessMain" />
+    <configuration name="OverridingMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.overriding.OverridingMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="extends1.access.*" />
+          <option name="PATTERN" value="poly.overriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OverridingMain" />
         <item itemvalue="Application.CastingMain5" />
         <item itemvalue="Application.ShopMain" />
         <item itemvalue="Application.Super2Main" />
         <item itemvalue="Application.Super1Main" />
-        <item itemvalue="Application.ExtendsAccessMain" />
       </list>
     </recent_temporary>
   </component>
