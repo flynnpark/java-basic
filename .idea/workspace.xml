@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="600c3590-d522-4f05-9d56-652948721935" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/poly/overriding/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/overriding/OverridingMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/overriding/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex1/AnimalSoundMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex1/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex1/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,6 +83,7 @@
     "Application.MusicPlayerMain4.executor": "Run",
     "Application.NullMain2.executor": "Run",
     "Application.NullMain3.executor": "Run",
+    "Application.OverridingMain.executor": "Run",
     "Application.ShopMain.executor": "Run",
     "Application.ShoppingCartMain.executor": "Run",
     "Application.SpeakerMain.executor": "Run",
@@ -114,11 +116,11 @@
       <recent name="poly" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="poly.ex1" />
       <recent name="poly.basic" />
       <recent name="extends1.overriding" />
       <recent name="final1" />
       <recent name="access.b" />
-      <recent name="pack" />
     </key>
   </component>
   <component name="RunManager" selected="Application.OverridingMain">
