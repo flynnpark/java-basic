@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="600c3590-d522-4f05-9d56-652948721935" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/poly/ex3/AbstractAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex3/AbstractMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex3/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex3/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex3/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex4/AbstractAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex4/AbstractMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex4/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex4/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex4/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,11 +119,11 @@
       <recent name="poly" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="poly.ex4" />
       <recent name="poly.ex3" />
       <recent name="poly.ex2" />
       <recent name="poly.ex1" />
       <recent name="poly.basic" />
-      <recent name="extends1.overriding" />
     </key>
   </component>
   <component name="RunManager" selected="Application.AnimalPolyMain2">
