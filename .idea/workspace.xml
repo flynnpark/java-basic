@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="600c3590-d522-4f05-9d56-652948721935" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/poly/diamond/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/diamond/DiamondMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/diamond/InterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/diamond/InterfaceB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex6/AbstractAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex6/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex6/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex6/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex6/Fly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex6/SoundPlayMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
